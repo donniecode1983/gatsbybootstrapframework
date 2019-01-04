@@ -28,7 +28,8 @@
     "react-helmet": "^5.2.0",
     "react-typography": "^0.16.18",
     "sass": "^1.15.2",
-    "typography": "^0.16.18"
+    "typography": "^0.16.18",
+    "typography-theme-moraga": "^0.16.18"
   },
   "keywords": [
     "murphy web consulting, gatsby, bootstrap, react, frontend framework"
